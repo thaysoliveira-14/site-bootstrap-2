@@ -1,0 +1,85 @@
+header {
+    background-color: #121212;
+}
+div.invisible {
+    height: 97.58px;
+}
+
+header h1 {
+    color: #E78D26;
+    font-family: "Babylonica", serif;
+    font-size: 3em;
+}
+
+ul.navbar-nav > li > a.active {
+    background-color: #E78D26 !important;
+    color: #fff !important;
+}
+
+ul.navbar-nav > li > a {
+    color: #fff;
+}
+
+ul.navbar-nav > li > a:hover {
+    color: #E78D26;
+}
+
+section#sobre, #cardapio {
+    background-color: #121212;
+}
+
+#cardapio p {
+    color: white;
+}
+
+#cardapio h5 {
+    color: #E78D26;
+    font-weight: bold;
+}
+
+.titulo-destaque {
+    color: #E78D26;
+}
+
+section p {
+    text-align: justify;
+}
+
+#cardapio .nav-link.active {
+    background-color: #E78D26 !important;
+    color: white !important;
+}
+
+#cardapio .nav-link {
+    color: #ffffff;
+}
+
+#cardapio .nav-link:hover {
+    color: #E78D26;
+}
+
+form > button {
+    background-color: #E78D26 !important;
+    color: white !important;
+}
+
+form > button:hover {
+    background-color: #121212 !important;
+}
+
+.social-links {
+    list-style: none;
+    display: flex;
+}
+
+.social-links a {
+    color: #121212;
+    font-size: 1.5em;
+    margin-right: 15px;
+}
+
+.padding-top {
+    padding-top: 96px;
+}
+
+
